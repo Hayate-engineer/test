@@ -67,6 +67,11 @@ main {
     display: inline-block;
 }
 
+.work-list{
+    margin: auto;
+    list-style: none;
+}
+
 .portfolio {
     background-color: #e3f2fd;
     padding: 20px;
@@ -131,4 +136,8 @@ footer {
     color: white;
     margin-top: 30px;
     font-weight: bold;
+}
+
+h2{
+    
 }
